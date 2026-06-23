@@ -1,0 +1,212 @@
+handoff_id,request_id,conversation_id,sent_at,manager_group_id,summary_text,has_name,has_phone,has_service,has_car,has_details,is_duplicate
+ho_0206,req_0235,conv_0235,2026-06-01 13:01:00,-5004592549,"Заявка: Ceramic coating, авто: Audi A6, телефон: +7 999 335-65-85",yes,yes,yes,yes,yes,no
+ho_0066,req_0064,conv_0064,2026-06-01 13:55:00,-5004592549,"Заявка: Paint correction, авто: Honda Accord 8, телефон: +7 999 164-74-22",yes,yes,yes,yes,no,no
+ho_0009,req_0009,conv_0009,2026-06-01 14:54:00,-5004592549,"Заявка: Detailing wash, авто: Volkswagen Tiguan, телефон: +7 999 109-19-37",yes,yes,yes,yes,yes,no
+ho_0163,req_0161,conv_0161,2026-06-01 15:47:00,-5004592549,"Заявка: Window tinting, авто: Kia K5, телефон: +7 999 261-81-43",yes,yes,yes,yes,no,no
+ho_0082,req_0080,conv_0080,2026-06-01 17:44:00,-5004592549,"Заявка: Chrome delete, авто: Kia K5, телефон: +7 999 180-90-70",yes,yes,yes,yes,yes,no
+ho_0059,req_0058,conv_0058,2026-06-01 18:33:00,-5004592549,"Заявка: Paint correction, авто: Geely Monjaro, телефон: +7 999 158-68-94",yes,yes,yes,yes,yes,no
+ho_0207,req_0236,conv_0236,2026-06-01 20:14:00,-5004592549,"Заявка: Detailing wash, авто: Range Rover Sport, телефон: +7 999 336-66-88",yes,yes,yes,yes,yes,no
+ho_0088,req_0086,conv_0086,2026-06-02 10:22:00,-5004592549,"Заявка: Window tinting, авто: Volkswagen Tiguan, телефон: +7 999 186-96-88",yes,yes,yes,yes,no,no
+ho_0193,req_0222,conv_0222,2026-06-02 12:43:00,-5004592549,"Заявка: Chrome delete, авто: Skoda Octavia, телефон: +7 999 322-52-46",yes,yes,yes,yes,yes,no
+ho_0006,req_0006,conv_0006,2026-06-02 12:47:00,-5004592549,"Заявка: PPF elements, авто: Audi A6, телефон: +7 999 106-16-28",yes,yes,yes,yes,no,no
+ho_0107,req_0105,conv_0105,2026-06-02 14:33:00,-5004592549,"Заявка: Interior dry cleaning, авто: BMW X5, телефон: +7 999 205-25-55",yes,yes,yes,yes,yes,no
+ho_0131,req_0129,conv_0129,2026-06-02 15:09:00,-5004592549,"Заявка: Window tinting, авто: Mercedes-Benz E-Class, телефон: +7 999 229-49-37",yes,yes,yes,yes,yes,no
+ho_0076,req_0074,conv_0074,2026-06-02 15:21:00,-5004592549,"Заявка: Chrome delete, авто: Hyundai Santa Fe, телефон: +7 999 174-84-52",yes,yes,yes,yes,yes,no
+ho_0052,req_0052,conv_0052,2026-06-02 16:50:00,-5004592549,"Заявка: PPF elements, авто: Geely Monjaro, телефон: +7 999 152-62-76",yes,yes,yes,yes,yes,no
+ho_0176,req_0174,conv_0174,2026-06-02 17:11:00,-5004592549,"Заявка: PPF elements, авто: Honda Accord 8, телефон: +7 999 274-94-82",yes,yes,yes,yes,yes,no
+ho_0189,req_0218,conv_0218,2026-06-02 19:12:00,-5004592549,"Заявка: Ceramic coating, авто: Audi A6, телефон: +7 999 318-48-34",yes,yes,yes,yes,yes,no
+ho_0041,req_0041,conv_0041,2026-06-02 19:16:00,-5004592549,"Заявка: Ceramic coating, авто: Range Rover Sport, телефон: +7 999 141-51-43",yes,yes,yes,yes,no,no
+ho_0002,req_0002,conv_0002,2026-06-02 20:11:00,-5004592549,"Заявка: Chrome delete, авто: Toyota Camry, телефон: +7 999 102-12-16",yes,yes,yes,yes,yes,no
+ho_0080,req_0078,conv_0078,2026-06-03 09:24:00,-5004592549,"Заявка: Interior dry cleaning, авто: Range Rover Sport, телефон: +7 999 178-88-64",yes,yes,yes,yes,no,no
+ho_0186,req_0215,conv_0215,2026-06-03 09:40:00,-5004592549,"Заявка: Detailing wash, авто: Audi A6, телефон: +7 999 315-45-25",yes,yes,yes,yes,yes,no
+ho_0128,req_0126,conv_0126,2026-06-03 12:33:00,-5004592549,"Заявка: Chrome delete, авто: Lexus RX, телефон: +7 999 226-46-28",yes,yes,yes,yes,yes,no
+ho_0129,req_0127,conv_0127,2026-06-03 12:57:00,-5004592549,"Заявка: Window tinting, авто: BMW X5, телефон: +7 999 227-47-31",yes,yes,yes,yes,yes,no
+ho_0042,req_0042,conv_0042,2026-06-03 14:29:00,-5004592549,"Заявка: Window tinting, авто: Audi A6, телефон: +7 999 142-52-46",yes,yes,yes,yes,yes,no
+ho_0126,req_0124,conv_0124,2026-06-03 14:33:00,-5004592549,"Заявка: PPF elements, авто: Skoda Octavia, телефон: +7 999 224-44-22",yes,yes,yes,yes,yes,no
+ho_0146,req_0144,conv_0144,2026-06-03 15:13:00,-5004592549,"Заявка: Interior dry cleaning, авто: Range Rover Sport, телефон: +7 999 244-64-82",yes,yes,yes,yes,no,no
+ho_0168,req_0166,conv_0166,2026-06-03 15:44:00,-5004592549,"Заявка: PPF elements, авто: Geely Monjaro, телефон: +7 999 266-86-58",yes,yes,yes,yes,no,no
+ho_0182,req_0191,conv_0191,2026-06-03 17:00:00,-5004592549,Общий вопрос без коммерческой заявки,no,no,no,no,no,no
+ho_0181,req_0191,conv_0191,2026-06-03 17:08:00,-5004592549,"Заявка: Detailing wash, авто: Lexus RX, телефон: не собран",yes,no,no,no,no,no
+ho_0211,req_0240,conv_0240,2026-06-03 18:15:00,-5004592549,"Заявка: PPF elements, авто: Lexus RX, телефон: +7 999 340-70-10",yes,yes,yes,yes,yes,no
+ho_0091,req_0089,conv_0089,2026-06-03 18:56:00,-5004592549,"Заявка: Interior dry cleaning, авто: Mercedes-Benz E-Class, телефон: +7 999 189-99-97",yes,yes,yes,yes,no,no
+ho_0102,req_0100,conv_0100,2026-06-04 09:19:00,-5004592549,"Заявка: Ceramic coating, авто: Toyota Camry, телефон: +7 999 200-20-40",yes,yes,yes,yes,no,no
+ho_0185,req_0214,conv_0214,2026-06-04 10:27:00,-5004592549,"Заявка: Ceramic coating, авто: Volkswagen Tiguan, телефон: +7 999 314-44-22",yes,yes,yes,yes,yes,no
+ho_0037,req_0037,conv_0037,2026-06-04 12:25:00,-5004592549,"Заявка: Chrome delete, авто: Tesla Model 3, телефон: +7 999 137-47-31",yes,yes,yes,yes,no,no
+ho_0203,req_0232,conv_0232,2026-06-04 12:32:00,-5004592549,"Заявка: Full PPF wrap, авто: Volkswagen Tiguan, телефон: +7 999 332-62-76",yes,yes,yes,yes,no,no
+ho_0028,req_0028,conv_0028,2026-06-04 13:05:00,-5004592549,"Заявка: Detailing wash, авто: Lexus RX, телефон: +7 999 128-38-94",yes,yes,yes,yes,no,no
+ho_0120,req_0118,conv_0118,2026-06-04 16:37:00,-5004592549,"Заявка: Detailing wash, авто: Geely Monjaro, телефон: +7 999 218-38-94",yes,yes,yes,yes,no,no
+ho_0050,req_0050,conv_0050,2026-06-04 16:42:00,-5004592549,"Заявка: PPF elements, авто: Volkswagen Tiguan, телефон: +7 999 150-60-70",yes,yes,yes,yes,yes,no
+ho_0060,req_0059,conv_0059,2026-06-04 16:48:00,-5004592549,"Заявка: Window tinting, авто: Kia K5, телефон: +7 999 159-69-97",yes,yes,yes,yes,no,no
+ho_0061,req_0059,conv_0059,2026-06-04 16:49:00,-5004592549,"Заявка: Window tinting, авто: Kia K5, телефон: +7 999 159-69-97",yes,yes,yes,yes,no,yes
+ho_0178,req_0181,conv_0181,2026-06-04 18:27:00,-5004592549,Общий вопрос без коммерческой заявки,no,no,no,no,no,no
+ho_0113,req_0111,conv_0111,2026-06-04 18:35:00,-5004592549,"Заявка: Paint correction, авто: Porsche Macan, телефон: +7 999 211-31-73",yes,yes,yes,yes,yes,no
+ho_0177,req_0181,conv_0181,2026-06-04 18:35:00,-5004592549,"Заявка: Interior dry cleaning, авто: Toyota Camry, телефон: не собран",yes,no,no,no,yes,no
+ho_0195,req_0224,conv_0224,2026-06-05 10:23:00,-5004592549,"Заявка: Ceramic coating, авто: Range Rover Sport, телефон: +7 999 324-54-52",yes,yes,yes,yes,no,no
+ho_0029,req_0029,conv_0029,2026-06-05 11:08:00,-5004592549,"Заявка: Ceramic coating, авто: Kia K5, телефон: +7 999 129-39-97",yes,yes,yes,yes,no,no
+ho_0174,req_0172,conv_0172,2026-06-05 11:13:00,-5004592549,"Заявка: Detailing wash, авто: Honda Accord 8, телефон: +7 999 272-92-76",yes,yes,yes,yes,no,no
+ho_0159,req_0157,conv_0157,2026-06-05 12:58:00,-5004592549,"Заявка: PPF elements, авто: Skoda Octavia, телефон: +7 999 257-77-31",yes,yes,yes,yes,yes,no
+ho_0095,req_0093,conv_0093,2026-06-05 14:21:00,-5004592549,"Заявка: Ceramic coating, авто: BMW X5, телефон: +7 999 193-13-19",yes,yes,yes,yes,yes,no
+ho_0016,req_0016,conv_0016,2026-06-05 16:21:00,-5004592549,"Заявка: Paint correction, авто: Lexus RX, телефон: +7 999 116-26-58",yes,yes,yes,yes,yes,no
+ho_0121,req_0119,conv_0119,2026-06-05 17:33:00,-5004592549,"Заявка: Chrome delete, авто: Toyota Camry, телефон: +7 999 219-39-97",yes,yes,yes,yes,no,no
+ho_0054,req_0054,conv_0054,2026-06-05 17:38:00,-5004592549,"Заявка: Window tinting, авто: Lexus RX, телефон: +7 999 154-64-82",yes,yes,yes,yes,no,no
+ho_0070,req_0068,conv_0068,2026-06-05 17:55:00,-5004592549,"Заявка: Full PPF wrap, авто: BMW X5, телефон: +7 999 168-78-34",yes,yes,yes,yes,yes,no
+ho_0017,req_0017,conv_0017,2026-06-05 18:35:00,-5004592549,"Заявка: Detailing wash, авто: Porsche Macan, телефон: +7 999 117-27-61",yes,yes,yes,yes,yes,no
+ho_0063,req_0061,conv_0061,2026-06-05 18:41:00,-5004592549,"Заявка: Interior dry cleaning, авто: BMW X5, телефон: +7 999 161-71-13",yes,yes,yes,yes,yes,no
+ho_0108,req_0106,conv_0106,2026-06-06 11:13:00,-5004592549,"Заявка: Detailing wash, авто: BMW X5, телефон: +7 999 206-26-58",yes,yes,yes,yes,yes,no
+ho_0018,req_0018,conv_0018,2026-06-06 15:08:00,-5004592549,"Заявка: Chrome delete, авто: Tesla Model 3, телефон: +7 999 118-28-64",yes,yes,yes,yes,yes,no
+ho_0115,req_0113,conv_0113,2026-06-06 16:20:00,-5004592549,"Заявка: Chrome delete, авто: Kia K5, телефон: +7 999 213-33-79",yes,yes,yes,yes,yes,no
+ho_0090,req_0088,conv_0088,2026-06-06 16:55:00,-5004592549,"Заявка: Detailing wash, авто: Hyundai Santa Fe, телефон: +7 999 188-98-94",yes,yes,yes,yes,yes,no
+ho_0039,req_0039,conv_0039,2026-06-06 18:44:00,-5004592549,"Заявка: PPF elements, авто: Lexus RX, телефон: +7 999 139-49-37",yes,yes,yes,yes,no,no
+ho_0142,req_0140,conv_0140,2026-06-07 09:54:00,-5004592549,"Заявка: Detailing wash, авто: Hyundai Santa Fe, телефон: +7 999 240-60-70",yes,yes,yes,yes,yes,no
+ho_0123,req_0121,conv_0121,2026-06-07 10:19:00,-5004592549,"Заявка: Window tinting, авто: Volkswagen Tiguan, телефон: +7 999 221-41-13",yes,yes,yes,yes,yes,no
+ho_0119,req_0117,conv_0117,2026-06-07 11:50:00,-5004592549,"Заявка: Window tinting, авто: Audi A6, телефон: +7 999 217-37-91",yes,yes,yes,yes,yes,no
+ho_0140,req_0138,conv_0138,2026-06-07 12:20:00,-5004592549,"Заявка: Paint correction, авто: Tesla Model 3, телефон: +7 999 238-58-64",yes,yes,yes,yes,yes,no
+ho_0200,req_0229,conv_0229,2026-06-07 12:32:00,-5004592549,"Заявка: Detailing wash, авто: BMW X5, телефон: +7 999 329-59-67",yes,yes,yes,yes,no,no
+ho_0106,req_0104,conv_0104,2026-06-07 13:20:00,-5004592549,"Заявка: Full PPF wrap, авто: Porsche Macan, телефон: +7 999 204-24-52",yes,yes,yes,yes,yes,no
+ho_0135,req_0133,conv_0133,2026-06-07 13:40:00,-5004592549,"Заявка: Paint correction, авто: Kia K5, телефон: +7 999 233-53-49",yes,yes,yes,yes,no,no
+ho_0124,req_0122,conv_0122,2026-06-07 14:06:00,-5004592549,"Заявка: Detailing wash, авто: Mercedes-Benz E-Class, телефон: +7 999 222-42-16",yes,yes,yes,yes,yes,no
+ho_0137,req_0135,conv_0135,2026-06-07 15:05:00,-5004592549,"Заявка: Detailing wash, авто: Toyota Camry, телефон: +7 999 235-55-55",yes,yes,yes,yes,yes,no
+ho_0133,req_0131,conv_0131,2026-06-07 15:54:00,-5004592549,"Заявка: Chrome delete, авто: Porsche Macan, телефон: +7 999 231-51-43",yes,yes,yes,yes,yes,no
+ho_0184,req_0199,conv_0199,2026-06-07 16:10:00,-5004592549,Общий вопрос без коммерческой заявки,no,no,no,no,no,no
+ho_0183,req_0199,conv_0199,2026-06-07 16:18:00,-5004592549,"Заявка: Ceramic coating, авто: Honda Accord 8, телефон: не собран",yes,no,no,no,yes,no
+ho_0086,req_0084,conv_0084,2026-06-07 16:19:00,-5004592549,"Заявка: Full PPF wrap, авто: Kia K5, телефон: +7 999 184-94-82",yes,yes,yes,yes,yes,no
+ho_0099,req_0097,conv_0097,2026-06-07 19:40:00,-5004592549,"Заявка: Interior dry cleaning, авто: Honda Accord 8, телефон: +7 999 197-17-31",yes,yes,yes,yes,yes,no
+ho_0071,req_0069,conv_0069,2026-06-08 09:53:00,-5004592549,"Заявка: Ceramic coating, авто: Lexus RX, телефон: +7 999 169-79-37",yes,yes,yes,yes,no,no
+ho_0147,req_0145,conv_0145,2026-06-08 11:03:00,-5004592549,"Заявка: Window tinting, авто: Tesla Model 3, телефон: +7 999 245-65-85",yes,yes,yes,yes,yes,no
+ho_0092,req_0090,conv_0090,2026-06-08 11:58:00,-5004592549,"Заявка: Window tinting, авто: Porsche Macan, телефон: +7 999 190-10-10",yes,yes,yes,yes,no,no
+ho_0027,req_0027,conv_0027,2026-06-08 12:03:00,-5004592549,"Заявка: Paint correction, авто: Porsche Macan, телефон: +7 999 127-37-91",yes,yes,yes,yes,no,no
+ho_0062,req_0060,conv_0060,2026-06-08 13:57:00,-5004592549,"Заявка: Paint correction, авто: Hyundai Santa Fe, телефон: +7 999 160-70-10",yes,yes,yes,yes,no,no
+ho_0053,req_0053,conv_0053,2026-06-08 14:05:00,-5004592549,"Заявка: Full PPF wrap, авто: Volkswagen Tiguan, телефон: +7 999 153-63-79",yes,yes,yes,yes,no,no
+ho_0208,req_0237,conv_0237,2026-06-08 14:27:00,-5004592549,"Заявка: Detailing wash, авто: Audi A6, телефон: +7 999 337-67-91",yes,yes,yes,yes,yes,no
+ho_0165,req_0163,conv_0163,2026-06-08 15:46:00,-5004592549,"Заявка: Ceramic coating, авто: Lexus RX, телефон: +7 999 263-83-49",yes,yes,yes,yes,no,no
+ho_0021,req_0021,conv_0021,2026-06-08 16:53:00,-5004592549,"Заявка: Paint correction, авто: Mercedes-Benz E-Class, телефон: +7 999 121-31-73",yes,yes,yes,yes,no,no
+ho_0083,req_0081,conv_0081,2026-06-08 16:54:00,-5004592549,"Заявка: Chrome delete, авто: Volkswagen Tiguan, телефон: +7 999 181-91-73",yes,yes,yes,yes,yes,no
+ho_0171,req_0169,conv_0169,2026-06-08 18:32:00,-5004592549,"Заявка: Ceramic coating, авто: Range Rover Sport, телефон: +7 999 269-89-67",yes,yes,yes,yes,yes,no
+ho_0148,req_0146,conv_0146,2026-06-08 18:46:00,-5004592549,"Заявка: Ceramic coating, авто: Hyundai Santa Fe, телефон: +7 999 246-66-88",yes,yes,yes,yes,yes,no
+ho_0172,req_0170,conv_0170,2026-06-08 19:08:00,-5004592549,"Заявка: Full PPF wrap, авто: Mazda CX-5, телефон: +7 999 270-90-70",yes,yes,yes,yes,yes,no
+ho_0058,req_0057,conv_0057,2026-06-09 10:01:00,-5004592549,"Заявка: Detailing wash, авто: Geely Monjaro, телефон: +7 999 157-67-91",yes,yes,yes,yes,yes,no
+ho_0197,req_0226,conv_0226,2026-06-09 11:27:00,-5004592549,"Заявка: Window tinting, авто: Tesla Model 3, телефон: +7 999 326-56-58",yes,yes,yes,yes,yes,no
+ho_0031,req_0031,conv_0031,2026-06-09 12:53:00,-5004592549,"Заявка: Ceramic coating, авто: Porsche Macan, телефон: +7 999 131-41-13",yes,yes,yes,yes,yes,no
+ho_0046,req_0046,conv_0046,2026-06-09 13:14:00,-5004592549,"Заявка: Ceramic coating, авто: Mercedes-Benz E-Class, телефон: +7 999 146-56-58",yes,yes,yes,yes,no,no
+ho_0072,req_0070,conv_0070,2026-06-09 14:40:00,-5004592549,"Заявка: Interior dry cleaning, авто: Mazda CX-5, телефон: +7 999 170-80-40",yes,yes,yes,yes,no,no
+ho_0035,req_0035,conv_0035,2026-06-09 15:18:00,-5004592549,"Заявка: Window tinting, авто: Mercedes-Benz E-Class, телефон: +7 999 135-45-25",yes,yes,yes,yes,no,no
+ho_0167,req_0165,conv_0165,2026-06-09 15:26:00,-5004592549,"Заявка: Detailing wash, авто: Audi A6, телефон: +7 999 265-85-55",yes,yes,yes,yes,yes,no
+ho_0173,req_0171,conv_0171,2026-06-09 17:10:00,-5004592549,"Заявка: Detailing wash, авто: Hyundai Santa Fe, телефон: +7 999 271-91-73",yes,yes,yes,yes,no,no
+ho_0069,req_0067,conv_0067,2026-06-09 19:00:00,-5004592549,"Заявка: Chrome delete, авто: Mazda CX-5, телефон: +7 999 167-77-31",yes,yes,yes,yes,yes,no
+ho_0034,req_0034,conv_0034,2026-06-09 19:14:00,-5004592549,"Заявка: Interior dry cleaning, авто: Skoda Octavia, телефон: +7 999 134-44-22",yes,yes,yes,yes,yes,no
+ho_0104,req_0102,conv_0102,2026-06-10 10:57:00,-5004592549,"Заявка: Interior dry cleaning, авто: Honda Accord 8, телефон: +7 999 202-22-46",yes,yes,yes,no,yes,no
+ho_0003,req_0003,conv_0003,2026-06-10 12:32:00,-5004592549,"Заявка: Ceramic coating, авто: Volkswagen Tiguan, телефон: +7 999 103-13-19",yes,yes,yes,yes,yes,no
+ho_0077,req_0075,conv_0075,2026-06-10 12:44:00,-5004592549,"Заявка: Chrome delete, авто: Lexus RX, телефон: +7 999 175-85-55",yes,yes,yes,yes,no,no
+ho_0038,req_0038,conv_0038,2026-06-10 17:03:00,-5004592549,"Заявка: Chrome delete, авто: Porsche Macan, телефон: +7 999 138-48-34",yes,yes,yes,yes,no,no
+ho_0081,req_0079,conv_0079,2026-06-10 17:59:00,-5004592549,"Заявка: Full PPF wrap, авто: Mercedes-Benz E-Class, телефон: +7 999 179-89-67",yes,yes,yes,yes,yes,no
+ho_0022,req_0022,conv_0022,2026-06-10 20:00:00,-5004592549,"Заявка: Interior dry cleaning, авто: Mercedes-Benz E-Class, телефон: +7 999 122-32-76",yes,yes,yes,yes,yes,no
+ho_0001,req_0001,conv_0001,2026-06-10 20:13:00,-5004592549,"Заявка: Detailing wash, авто: Lexus RX, телефон: +7 999 101-11-13",yes,yes,yes,yes,yes,no
+ho_0192,req_0221,conv_0221,2026-06-11 09:32:00,-5004592549,"Заявка: Window tinting, авто: Lexus RX, телефон: +7 999 321-51-43",yes,yes,yes,yes,yes,no
+ho_0015,req_0015,conv_0015,2026-06-11 11:07:00,-5004592549,"Заявка: Ceramic coating, авто: Mazda CX-5, телефон: +7 999 115-25-55",yes,yes,yes,yes,yes,no
+ho_0155,req_0153,conv_0153,2026-06-11 11:47:00,-5004592549,"Заявка: Ceramic coating, авто: Range Rover Sport, телефон: +7 999 253-73-19",yes,yes,yes,yes,yes,no
+ho_0166,req_0164,conv_0164,2026-06-11 12:27:00,-5004592549,"Заявка: Chrome delete, авто: Hyundai Santa Fe, телефон: +7 999 264-84-52",yes,yes,yes,yes,yes,no
+ho_0210,req_0239,conv_0239,2026-06-11 15:05:00,-5004592549,"Заявка: Paint correction, авто: Skoda Octavia, телефон: +7 999 339-69-97",yes,yes,yes,yes,yes,no
+ho_0075,req_0073,conv_0073,2026-06-11 15:34:00,-5004592549,"Заявка: Chrome delete, авто: BMW X5, телефон: +7 999 173-83-49",yes,yes,yes,yes,no,no
+ho_0023,req_0023,conv_0023,2026-06-11 16:36:00,-5004592549,"Заявка: Ceramic coating, авто: Kia K5, телефон: +7 999 123-33-79",yes,yes,yes,yes,yes,no
+ho_0096,req_0094,conv_0094,2026-06-11 19:23:00,-5004592549,"Заявка: Full PPF wrap, авто: Audi A6, телефон: +7 999 194-14-22",yes,yes,yes,yes,yes,no
+ho_0112,req_0110,conv_0110,2026-06-12 12:39:00,-5004592549,"Заявка: Ceramic coating, авто: Kia K5, телефон: +7 999 210-30-70",yes,yes,yes,yes,no,no
+ho_0205,req_0234,conv_0234,2026-06-12 12:51:00,-5004592549,"Заявка: Chrome delete, авто: Lexus RX, телефон: +7 999 334-64-82",yes,yes,yes,yes,yes,no
+ho_0005,req_0005,conv_0005,2026-06-12 13:13:00,-5004592549,"Заявка: Interior dry cleaning, авто: Toyota Camry, телефон: +7 999 105-15-25",yes,yes,yes,yes,no,no
+ho_0130,req_0128,conv_0128,2026-06-12 13:26:00,-5004592549,"Заявка: Interior dry cleaning, авто: Range Rover Sport, телефон: не собран",yes,no,yes,yes,no,no
+ho_0013,req_0013,conv_0013,2026-06-12 15:25:00,-5004592549,"Заявка: Detailing wash, авто: BMW X5, телефон: +7 999 113-23-49",yes,yes,yes,no,no,no
+ho_0143,req_0141,conv_0141,2026-06-12 16:27:00,-5004592549,"Заявка: Full PPF wrap, авто: Mazda CX-5, телефон: +7 999 241-61-73",yes,yes,yes,yes,yes,no
+ho_0078,req_0076,conv_0076,2026-06-12 17:50:00,-5004592549,"Заявка: Interior dry cleaning, авто: Mazda CX-5, телефон: +7 999 176-86-58",yes,yes,yes,yes,yes,no
+ho_0030,req_0030,conv_0030,2026-06-12 18:05:00,-5004592549,"Заявка: PPF elements, авто: Honda Accord 8, телефон: +7 999 130-40-10",yes,yes,yes,yes,yes,no
+ho_0067,req_0065,conv_0065,2026-06-13 09:22:00,-5004592549,"Заявка: Detailing wash, авто: Toyota Camry, телефон: +7 999 165-75-25",yes,yes,yes,yes,no,no
+ho_0188,req_0217,conv_0217,2026-06-13 09:34:00,-5004592549,"Заявка: Detailing wash, авто: Geely Monjaro, телефон: +7 999 317-47-31",yes,yes,yes,yes,yes,no
+ho_0043,req_0043,conv_0043,2026-06-13 10:23:00,-5004592549,"Заявка: Window tinting, авто: Toyota Camry, телефон: +7 999 143-53-49",yes,yes,yes,yes,no,no
+ho_0033,req_0033,conv_0033,2026-06-13 10:47:00,-5004592549,"Заявка: Full PPF wrap, авто: Kia K5, телефон: +7 999 133-43-19",yes,yes,yes,yes,yes,no
+ho_0132,req_0130,conv_0130,2026-06-13 13:37:00,-5004592549,"Заявка: Ceramic coating, авто: Geely Monjaro, телефон: +7 999 230-50-40",yes,yes,yes,yes,yes,no
+ho_0056,req_0056,conv_0056,2026-06-13 13:54:00,-5004592549,"Заявка: Chrome delete, авто: Range Rover Sport, телефон: +7 999 156-66-88",yes,yes,yes,yes,yes,no
+ho_0057,req_0056,conv_0056,2026-06-13 13:55:00,-5004592549,"Заявка: Chrome delete, авто: Range Rover Sport, телефон: +7 999 156-66-88",yes,yes,yes,yes,yes,yes
+ho_0114,req_0112,conv_0112,2026-06-13 14:56:00,-5004592549,"Заявка: Window tinting, авто: Mercedes-Benz E-Class, телефон: +7 999 212-32-76",yes,yes,yes,yes,yes,no
+ho_0151,req_0149,conv_0149,2026-06-13 16:00:00,-5004592549,"Заявка: Ceramic coating, авто: Skoda Octavia, телефон: +7 999 249-69-97",yes,yes,yes,yes,no,no
+ho_0014,req_0014,conv_0014,2026-06-13 17:41:00,-5004592549,"Заявка: Window tinting, авто: Range Rover Sport, телефон: +7 999 114-24-52",yes,yes,yes,yes,no,no
+ho_0157,req_0155,conv_0155,2026-06-13 19:27:00,-5004592549,"Заявка: Full PPF wrap, авто: Volkswagen Tiguan, телефон: +7 999 255-75-25",yes,yes,yes,yes,yes,no
+ho_0138,req_0136,conv_0136,2026-06-13 20:06:00,-5004592549,"Заявка: Interior dry cleaning, авто: Porsche Macan, телефон: +7 999 236-56-58",yes,yes,yes,yes,yes,no
+ho_0032,req_0032,conv_0032,2026-06-14 10:06:00,-5004592549,"Заявка: Ceramic coating, авто: Volkswagen Tiguan, телефон: +7 999 132-42-16",yes,yes,yes,yes,yes,no
+ho_0169,req_0167,conv_0167,2026-06-14 10:23:00,-5004592549,"Заявка: Full PPF wrap, авто: Mazda CX-5, телефон: +7 999 267-87-61",yes,yes,yes,yes,yes,no
+ho_0065,req_0063,conv_0063,2026-06-14 12:49:00,-5004592549,"Заявка: Detailing wash, авто: Mercedes-Benz E-Class, телефон: +7 999 163-73-19",yes,yes,yes,yes,no,no
+ho_0111,req_0109,conv_0109,2026-06-14 13:09:00,-5004592549,"Заявка: Paint correction, авто: Mercedes-Benz E-Class, телефон: +7 999 209-29-67",yes,yes,yes,yes,yes,no
+ho_0145,req_0143,conv_0143,2026-06-14 13:47:00,-5004592549,"Заявка: Paint correction, авто: BMW X5, телефон: +7 999 243-63-79",yes,yes,yes,yes,yes,no
+ho_0049,req_0049,conv_0049,2026-06-14 13:48:00,-5004592549,"Заявка: Interior dry cleaning, авто: Range Rover Sport, телефон: +7 999 149-59-67",yes,yes,yes,yes,yes,no
+ho_0141,req_0139,conv_0139,2026-06-14 15:22:00,-5004592549,"Заявка: Chrome delete, авто: Audi A6, телефон: +7 999 239-59-67",yes,yes,yes,yes,yes,no
+ho_0136,req_0134,conv_0134,2026-06-14 15:45:00,-5004592549,"Заявка: Detailing wash, авто: Volkswagen Tiguan, телефон: +7 999 234-54-52",yes,yes,yes,yes,yes,no
+ho_0068,req_0066,conv_0066,2026-06-14 15:56:00,-5004592549,"Заявка: Chrome delete, авто: Volkswagen Tiguan, телефон: +7 999 166-76-28",yes,yes,yes,yes,yes,no
+ho_0012,req_0012,conv_0012,2026-06-14 15:57:00,-5004592549,"Заявка: Detailing wash, авто: Porsche Macan, телефон: +7 999 112-22-46",yes,yes,yes,yes,no,no
+ho_0150,req_0148,conv_0148,2026-06-14 17:58:00,-5004592549,"Заявка: PPF elements, авто: Skoda Octavia, телефон: +7 999 248-68-94",yes,yes,yes,yes,yes,no
+ho_0045,req_0045,conv_0045,2026-06-14 18:55:00,-5004592549,"Заявка: Ceramic coating, авто: Lexus RX, телефон: +7 999 145-55-55",yes,yes,yes,yes,yes,no
+ho_0010,req_0010,conv_0010,2026-06-14 19:18:00,-5004592549,"Заявка: Window tinting, авто: Range Rover Sport, телефон: +7 999 110-20-40",yes,yes,yes,yes,no,no
+ho_0125,req_0123,conv_0123,2026-06-15 10:38:00,-5004592549,"Заявка: Chrome delete, авто: Mercedes-Benz E-Class, телефон: +7 999 223-43-19",yes,yes,yes,yes,no,no
+ho_0154,req_0152,conv_0152,2026-06-15 11:10:00,-5004592549,"Заявка: Full PPF wrap, авто: Audi A6, телефон: +7 999 252-72-16",yes,yes,yes,yes,yes,no
+ho_0036,req_0036,conv_0036,2026-06-15 11:31:00,-5004592549,"Заявка: Detailing wash, авто: Skoda Octavia, телефон: +7 999 136-46-28",yes,yes,yes,yes,yes,no
+ho_0158,req_0156,conv_0156,2026-06-15 11:56:00,-5004592549,"Заявка: Ceramic coating, авто: Geely Monjaro, телефон: +7 999 256-76-28",yes,yes,yes,yes,no,no
+ho_0008,req_0008,conv_0008,2026-06-15 12:45:00,-5004592549,"Заявка: Detailing wash, авто: Mercedes-Benz E-Class, телефон: +7 999 108-18-34",yes,yes,yes,yes,yes,no
+ho_0170,req_0168,conv_0168,2026-06-15 13:04:00,-5004592549,"Заявка: Full PPF wrap, авто: Range Rover Sport, телефон: +7 999 268-88-64",yes,yes,yes,yes,no,no
+ho_0164,req_0162,conv_0162,2026-06-15 13:35:00,-5004592549,"Заявка: Paint correction, авто: Hyundai Santa Fe, телефон: +7 999 262-82-46",yes,yes,yes,yes,yes,no
+ho_0011,req_0011,conv_0011,2026-06-15 17:05:00,-5004592549,"Заявка: Ceramic coating, авто: Tesla Model 3, телефон: +7 999 111-21-43",yes,yes,yes,yes,yes,no
+ho_0204,req_0233,conv_0233,2026-06-16 10:16:00,-5004592549,"Заявка: Detailing wash, авто: Porsche Macan, телефон: +7 999 333-63-79",yes,yes,yes,yes,no,no
+ho_0044,req_0044,conv_0044,2026-06-16 10:30:00,-5004592549,"Заявка: Full PPF wrap, авто: Kia K5, телефон: +7 999 144-54-52",yes,yes,yes,yes,no,no
+ho_0194,req_0223,conv_0223,2026-06-16 10:42:00,-5004592549,"Заявка: Full PPF wrap, авто: Mercedes-Benz E-Class, телефон: не собран",yes,no,yes,yes,yes,no
+ho_0201,req_0230,conv_0230,2026-06-16 14:06:00,-5004592549,"Заявка: Window tinting, авто: Tesla Model 3, телефон: +7 999 330-60-70",yes,yes,yes,yes,yes,no
+ho_0199,req_0228,conv_0228,2026-06-16 14:11:00,-5004592549,"Заявка: Window tinting, авто: Range Rover Sport, телефон: +7 999 328-58-64",yes,yes,yes,yes,yes,no
+ho_0101,req_0099,conv_0099,2026-06-16 15:13:00,-5004592549,"Заявка: Interior dry cleaning, авто: Skoda Octavia, телефон: +7 999 199-19-37",yes,yes,yes,yes,yes,no
+ho_0084,req_0082,conv_0082,2026-06-16 15:35:00,-5004592549,"Заявка: Chrome delete, авто: Kia K5, телефон: +7 999 182-92-76",yes,yes,yes,yes,yes,no
+ho_0187,req_0216,conv_0216,2026-06-16 17:02:00,-5004592549,"Заявка: PPF elements, авто: Hyundai Santa Fe, телефон: +7 999 316-46-28",yes,yes,yes,yes,yes,no
+ho_0089,req_0087,conv_0087,2026-06-16 17:52:00,-5004592549,"Заявка: Interior dry cleaning, авто: Honda Accord 8, телефон: +7 999 187-97-91",yes,yes,yes,yes,no,no
+ho_0134,req_0132,conv_0132,2026-06-16 18:15:00,-5004592549,"Заявка: Paint correction, авто: Tesla Model 3, телефон: +7 999 232-52-46",yes,yes,yes,yes,yes,no
+ho_0085,req_0083,conv_0083,2026-06-16 18:17:00,-5004592549,"Заявка: Interior dry cleaning, авто: Honda Accord 8, телефон: +7 999 183-93-79",yes,yes,yes,yes,yes,no
+ho_0007,req_0007,conv_0007,2026-06-16 19:02:00,-5004592549,"Заявка: Chrome delete, авто: Kia K5, телефон: +7 999 107-17-31",yes,yes,yes,yes,yes,no
+ho_0190,req_0219,conv_0219,2026-06-16 19:20:00,-5004592549,"Заявка: Window tinting, авто: Honda Accord 8, телефон: +7 999 319-49-37",yes,yes,yes,yes,no,no
+ho_0109,req_0107,conv_0107,2026-06-17 10:52:00,-5004592549,"Заявка: Chrome delete, авто: Audi A6, телефон: +7 999 207-27-61",yes,yes,yes,yes,yes,no
+ho_0117,req_0115,conv_0115,2026-06-17 12:17:00,-5004592549,"Заявка: Paint correction, авто: Skoda Octavia, телефон: +7 999 215-35-85",yes,yes,yes,yes,yes,no
+ho_0175,req_0173,conv_0173,2026-06-17 12:19:00,-5004592549,"Заявка: Paint correction, авто: Lexus RX, телефон: +7 999 273-93-79",yes,yes,yes,yes,no,no
+ho_0196,req_0225,conv_0225,2026-06-17 12:21:00,-5004592549,"Заявка: PPF elements, авто: Lexus RX, телефон: +7 999 325-55-55",yes,yes,yes,yes,yes,no
+ho_0116,req_0114,conv_0114,2026-06-17 14:01:00,-5004592549,"Заявка: Interior dry cleaning, авто: Range Rover Sport, телефон: +7 999 214-34-82",yes,yes,yes,no,yes,no
+ho_0152,req_0150,conv_0150,2026-06-17 18:31:00,-5004592549,"Заявка: Paint correction, авто: Honda Accord 8, телефон: +7 999 250-70-10",yes,yes,yes,yes,yes,no
+ho_0103,req_0101,conv_0101,2026-06-17 19:07:00,-5004592549,"Заявка: Window tinting, авто: Range Rover Sport, телефон: +7 999 201-21-43",yes,yes,yes,yes,yes,no
+ho_0048,req_0048,conv_0048,2026-06-17 19:08:00,-5004592549,"Заявка: Full PPF wrap, авто: Audi A6, телефон: +7 999 148-58-64",yes,yes,yes,yes,yes,no
+ho_0097,req_0095,conv_0095,2026-06-18 11:07:00,-5004592549,"Заявка: Interior dry cleaning, авто: Volkswagen Tiguan, телефон: +7 999 195-15-25",yes,yes,yes,yes,yes,no
+ho_0162,req_0160,conv_0160,2026-06-18 11:59:00,-5004592549,"Заявка: Window tinting, авто: Hyundai Santa Fe, телефон: +7 999 260-80-40",yes,yes,yes,yes,no,no
+ho_0160,req_0158,conv_0158,2026-06-18 12:02:00,-5004592549,"Заявка: PPF elements, авто: Mercedes-Benz E-Class, телефон: +7 999 258-78-34",yes,yes,yes,yes,yes,no
+ho_0024,req_0024,conv_0024,2026-06-18 14:28:00,-5004592549,"Заявка: Ceramic coating, авто: Audi A6, телефон: +7 999 124-34-82",yes,yes,yes,yes,no,no
+ho_0074,req_0072,conv_0072,2026-06-18 15:04:00,-5004592549,"Заявка: Window tinting, авто: Toyota Camry, телефон: +7 999 172-82-46",yes,yes,yes,yes,yes,no
+ho_0093,req_0091,conv_0091,2026-06-18 17:10:00,-5004592549,"Заявка: Full PPF wrap, авто: Audi A6, телефон: +7 999 191-11-13",yes,yes,yes,yes,yes,no
+ho_0139,req_0137,conv_0137,2026-06-18 17:59:00,-5004592549,"Заявка: Full PPF wrap, авто: Audi A6, телефон: +7 999 237-57-61",yes,yes,yes,yes,no,no
+ho_0079,req_0077,conv_0077,2026-06-19 10:16:00,-5004592549,"Заявка: Interior dry cleaning, авто: Hyundai Santa Fe, телефон: +7 999 177-87-61",yes,yes,yes,yes,no,no
+ho_0191,req_0220,conv_0220,2026-06-19 11:36:00,-5004592549,"Заявка: Window tinting, авто: Geely Monjaro, телефон: +7 999 320-50-40",yes,yes,yes,yes,yes,no
+ho_0156,req_0154,conv_0154,2026-06-19 12:57:00,-5004592549,"Заявка: Interior dry cleaning, авто: Tesla Model 3, телефон: +7 999 254-74-22",yes,yes,yes,yes,yes,no
+ho_0020,req_0020,conv_0020,2026-06-19 14:45:00,-5004592549,"Заявка: Detailing wash, авто: Geely Monjaro, телефон: +7 999 120-30-70",yes,yes,yes,yes,yes,no
+ho_0209,req_0238,conv_0238,2026-06-19 15:40:00,-5004592549,"Заявка: PPF elements, авто: Porsche Macan, телефон: +7 999 338-68-94",yes,yes,yes,yes,yes,no
+ho_0040,req_0040,conv_0040,2026-06-19 16:49:00,-5004592549,"Заявка: Ceramic coating, авто: BMW X5, телефон: +7 999 140-50-40",yes,yes,no,yes,no,no
+ho_0110,req_0108,conv_0108,2026-06-19 16:56:00,-5004592549,"Заявка: Paint correction, авто: Porsche Macan, телефон: +7 999 208-28-64",yes,yes,yes,yes,yes,no
+ho_0026,req_0026,conv_0026,2026-06-19 18:04:00,-5004592549,"Заявка: Paint correction, авто: Toyota Camry, телефон: +7 999 126-36-88",yes,yes,yes,yes,yes,no
+ho_0098,req_0096,conv_0096,2026-06-19 18:12:00,-5004592549,"Заявка: Chrome delete, авто: Honda Accord 8, телефон: +7 999 196-16-28",yes,yes,yes,yes,no,no
+ho_0025,req_0025,conv_0025,2026-06-19 18:55:00,-5004592549,"Заявка: Interior dry cleaning, авто: Lexus RX, телефон: +7 999 125-35-85",yes,yes,yes,yes,no,no
+ho_0144,req_0142,conv_0142,2026-06-19 19:31:00,-5004592549,"Заявка: Interior dry cleaning, авто: Porsche Macan, телефон: +7 999 242-62-76",yes,yes,yes,yes,no,no
+ho_0198,req_0227,conv_0227,2026-06-19 20:08:00,-5004592549,"Заявка: Interior dry cleaning, авто: Kia K5, телефон: +7 999 327-57-61",yes,yes,yes,yes,yes,no
+ho_0202,req_0231,conv_0231,2026-06-20 09:55:00,-5004592549,"Заявка: Full PPF wrap, авто: Skoda Octavia, телефон: +7 999 331-61-73",yes,yes,yes,yes,yes,no
+ho_0019,req_0019,conv_0019,2026-06-20 10:15:00,-5004592549,"Заявка: Chrome delete, авто: Mercedes-Benz E-Class, телефон: +7 999 119-29-67",yes,yes,yes,yes,yes,no
+ho_0094,req_0092,conv_0092,2026-06-20 11:54:00,-5004592549,"Заявка: Paint correction, авто: Toyota Camry, телефон: +7 999 192-12-16",yes,yes,yes,yes,yes,no
+ho_0055,req_0055,conv_0055,2026-06-20 12:03:00,-5004592549,"Заявка: Full PPF wrap, авто: Porsche Macan, телефон: +7 999 155-65-85",yes,yes,yes,yes,yes,no
+ho_0161,req_0159,conv_0159,2026-06-20 13:10:00,-5004592549,"Заявка: Detailing wash, авто: Tesla Model 3, телефон: +7 999 259-79-37",yes,yes,yes,yes,yes,no
+ho_0118,req_0116,conv_0116,2026-06-20 15:06:00,-5004592549,"Заявка: PPF elements, авто: Mazda CX-5, телефон: +7 999 216-36-88",yes,yes,yes,yes,no,no
+ho_0051,req_0051,conv_0051,2026-06-20 16:44:00,-5004592549,"Заявка: Paint correction, авто: Mazda CX-5, телефон: +7 999 151-61-73",yes,yes,yes,yes,no,no
+ho_0149,req_0147,conv_0147,2026-06-20 17:03:00,-5004592549,"Заявка: Paint correction, авто: Audi A6, телефон: +7 999 247-67-91",yes,yes,yes,yes,no,no
+ho_0122,req_0120,conv_0120,2026-06-20 18:56:00,-5004592549,"Заявка: Ceramic coating, авто: Kia K5, телефон: +7 999 220-40-10",yes,yes,yes,yes,no,no
+ho_0047,req_0047,conv_0047,2026-06-21 10:16:00,-5004592549,"Заявка: Detailing wash, авто: Toyota Camry, телефон: +7 999 147-57-61",yes,yes,yes,yes,yes,no
+ho_0064,req_0062,conv_0062,2026-06-21 11:06:00,-5004592549,"Заявка: Chrome delete, авто: Mazda CX-5, телефон: +7 999 162-72-16",yes,yes,yes,yes,yes,no
+ho_0073,req_0071,conv_0071,2026-06-21 13:42:00,-5004592549,"Заявка: Detailing wash, авто: Toyota Camry, телефон: +7 999 171-81-43",yes,yes,yes,yes,yes,no
+ho_0180,req_0186,conv_0186,2026-06-21 13:52:00,-5004592549,Общий вопрос без коммерческой заявки,no,no,no,no,no,no
+ho_0179,req_0186,conv_0186,2026-06-21 14:00:00,-5004592549,"Заявка: PPF elements, авто: Mercedes-Benz E-Class, телефон: не собран",yes,no,no,no,no,no
+ho_0087,req_0085,conv_0085,2026-06-21 14:01:00,-5004592549,"Заявка: PPF elements, авто: Mercedes-Benz E-Class, телефон: +7 999 185-95-85",yes,yes,yes,yes,no,no
+ho_0127,req_0125,conv_0125,2026-06-21 17:46:00,-5004592549,"Заявка: Ceramic coating, авто: Skoda Octavia, телефон: +7 999 225-45-25",yes,yes,yes,yes,yes,no
+ho_0100,req_0098,conv_0098,2026-06-21 17:47:00,-5004592549,"Заявка: Ceramic coating, авто: Kia K5, телефон: +7 999 198-18-34",yes,yes,yes,yes,no,no
+ho_0105,req_0103,conv_0103,2026-06-21 18:31:00,-5004592549,"Заявка: Full PPF wrap, авто: Mazda CX-5, телефон: +7 999 203-23-49",yes,yes,yes,yes,no,no
+ho_0153,req_0151,conv_0151,2026-06-21 19:05:00,-5004592549,"Заявка: Window tinting, авто: Mercedes-Benz E-Class, телефон: +7 999 251-71-13",yes,yes,yes,yes,no,no
+ho_0004,req_0004,conv_0004,2026-06-21 19:08:00,-5004592549,"Заявка: Detailing wash, авто: Toyota Camry, телефон: +7 999 104-14-22",yes,yes,yes,yes,no,no

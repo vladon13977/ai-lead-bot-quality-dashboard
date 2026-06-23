@@ -1,0 +1,241 @@
+annotation_id,conversation_id,message_id,intent,service,extracted_fields,confidence
+ann_00001,conv_0001,msg_00001,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Lexus RX""}",0.82
+ann_00002,conv_0002,msg_00005,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Toyota Camry""}",0.87
+ann_00003,conv_0003,msg_00010,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Volkswagen Tiguan""}",0.93
+ann_00004,conv_0004,msg_00015,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Toyota Camry""}",0.87
+ann_00005,conv_0005,msg_00021,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Toyota Camry""}",0.89
+ann_00006,conv_0006,msg_00027,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Audi A6""}",0.84
+ann_00007,conv_0007,msg_00033,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Kia K5""}",0.90
+ann_00008,conv_0008,msg_00038,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Mercedes-Benz E-Class""}",0.86
+ann_00009,conv_0009,msg_00044,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Volkswagen Tiguan""}",0.85
+ann_00010,conv_0010,msg_00049,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Range Rover Sport""}",0.91
+ann_00011,conv_0011,msg_00053,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Tesla Model 3""}",0.85
+ann_00012,conv_0012,msg_00057,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Porsche Macan""}",0.91
+ann_00013,conv_0013,msg_00062,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""BMW X5""}",0.95
+ann_00014,conv_0014,msg_00068,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Range Rover Sport""}",0.87
+ann_00015,conv_0015,msg_00074,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Mazda CX-5""}",0.90
+ann_00016,conv_0016,msg_00080,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Lexus RX""}",0.82
+ann_00017,conv_0017,msg_00085,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Porsche Macan""}",0.86
+ann_00018,conv_0018,msg_00091,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Tesla Model 3""}",0.87
+ann_00019,conv_0019,msg_00096,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Mercedes-Benz E-Class""}",0.87
+ann_00020,conv_0020,msg_00101,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Geely Monjaro""}",0.85
+ann_00021,conv_0021,msg_00106,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Mercedes-Benz E-Class""}",0.83
+ann_00022,conv_0022,msg_00111,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Mercedes-Benz E-Class""}",0.84
+ann_00023,conv_0023,msg_00117,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Kia K5""}",0.97
+ann_00024,conv_0024,msg_00121,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Audi A6""}",0.84
+ann_00025,conv_0025,msg_00125,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Lexus RX""}",0.92
+ann_00026,conv_0026,msg_00129,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Toyota Camry""}",0.87
+ann_00027,conv_0027,msg_00133,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Porsche Macan""}",0.93
+ann_00028,conv_0028,msg_00138,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Lexus RX""}",0.89
+ann_00029,conv_0029,msg_00143,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Kia K5""}",0.88
+ann_00030,conv_0030,msg_00148,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Honda Accord 8""}",0.87
+ann_00031,conv_0031,msg_00153,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Porsche Macan""}",0.85
+ann_00032,conv_0032,msg_00159,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Volkswagen Tiguan""}",0.84
+ann_00033,conv_0033,msg_00163,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Kia K5""}",0.90
+ann_00034,conv_0034,msg_00168,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Skoda Octavia""}",0.87
+ann_00035,conv_0035,msg_00174,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Mercedes-Benz E-Class""}",0.82
+ann_00036,conv_0036,msg_00178,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Skoda Octavia""}",0.90
+ann_00037,conv_0037,msg_00182,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Tesla Model 3""}",0.96
+ann_00038,conv_0038,msg_00187,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Porsche Macan""}",0.88
+ann_00039,conv_0039,msg_00193,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Lexus RX""}",0.83
+ann_00040,conv_0040,msg_00197,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""BMW X5""}",0.95
+ann_00041,conv_0041,msg_00202,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Range Rover Sport""}",0.93
+ann_00042,conv_0042,msg_00207,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Audi A6""}",0.87
+ann_00043,conv_0043,msg_00211,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Toyota Camry""}",0.94
+ann_00044,conv_0044,msg_00215,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Kia K5""}",0.94
+ann_00045,conv_0045,msg_00221,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Lexus RX""}",0.90
+ann_00046,conv_0046,msg_00225,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Mercedes-Benz E-Class""}",0.94
+ann_00047,conv_0047,msg_00229,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Toyota Camry""}",0.87
+ann_00048,conv_0048,msg_00234,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Audi A6""}",0.91
+ann_00049,conv_0049,msg_00239,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Range Rover Sport""}",0.93
+ann_00050,conv_0050,msg_00245,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Volkswagen Tiguan""}",0.87
+ann_00051,conv_0051,msg_00251,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Mazda CX-5""}",0.92
+ann_00052,conv_0052,msg_00257,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Geely Monjaro""}",0.93
+ann_00053,conv_0053,msg_00262,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Volkswagen Tiguan""}",0.84
+ann_00054,conv_0054,msg_00268,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Lexus RX""}",0.95
+ann_00055,conv_0055,msg_00272,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Porsche Macan""}",0.84
+ann_00056,conv_0056,msg_00278,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Range Rover Sport""}",0.90
+ann_00057,conv_0057,msg_00284,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Geely Monjaro""}",0.94
+ann_00058,conv_0058,msg_00288,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Geely Monjaro""}",0.92
+ann_00059,conv_0059,msg_00293,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Kia K5""}",0.86
+ann_00060,conv_0060,msg_00297,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Hyundai Santa Fe""}",0.97
+ann_00061,conv_0061,msg_00303,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""BMW X5""}",0.93
+ann_00062,conv_0062,msg_00308,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Mazda CX-5""}",0.97
+ann_00063,conv_0063,msg_00312,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Mercedes-Benz E-Class""}",0.86
+ann_00064,conv_0064,msg_00316,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Honda Accord 8""}",0.88
+ann_00065,conv_0065,msg_00321,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Toyota Camry""}",0.88
+ann_00066,conv_0066,msg_00326,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Volkswagen Tiguan""}",0.90
+ann_00067,conv_0067,msg_00330,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Mazda CX-5""}",0.82
+ann_00068,conv_0068,msg_00336,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""BMW X5""}",0.93
+ann_00069,conv_0069,msg_00341,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Lexus RX""}",0.91
+ann_00070,conv_0070,msg_00345,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Mazda CX-5""}",0.96
+ann_00071,conv_0071,msg_00350,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Toyota Camry""}",0.96
+ann_00072,conv_0072,msg_00354,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Toyota Camry""}",0.95
+ann_00073,conv_0073,msg_00360,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""BMW X5""}",0.93
+ann_00074,conv_0074,msg_00365,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Hyundai Santa Fe""}",0.86
+ann_00075,conv_0075,msg_00369,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Lexus RX""}",0.90
+ann_00076,conv_0076,msg_00373,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Mazda CX-5""}",0.89
+ann_00077,conv_0077,msg_00377,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Hyundai Santa Fe""}",0.90
+ann_00078,conv_0078,msg_00381,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Range Rover Sport""}",0.88
+ann_00079,conv_0079,msg_00385,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mercedes-Benz E-Class""}",0.83
+ann_00080,conv_0080,msg_00389,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Kia K5""}",0.87
+ann_00081,conv_0081,msg_00395,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Volkswagen Tiguan""}",0.91
+ann_00082,conv_0082,msg_00399,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Kia K5""}",0.94
+ann_00083,conv_0083,msg_00405,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Honda Accord 8""}",0.93
+ann_00084,conv_0084,msg_00411,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Kia K5""}",0.86
+ann_00085,conv_0085,msg_00417,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Mercedes-Benz E-Class""}",0.87
+ann_00086,conv_0086,msg_00422,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Volkswagen Tiguan""}",0.86
+ann_00087,conv_0087,msg_00426,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Honda Accord 8""}",0.88
+ann_00088,conv_0088,msg_00430,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""Hyundai Santa Fe""}",0.88
+ann_00089,conv_0089,msg_00434,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Mercedes-Benz E-Class""}",0.94
+ann_00090,conv_0090,msg_00440,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Porsche Macan""}",0.83
+ann_00091,conv_0091,msg_00444,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Audi A6""}",0.95
+ann_00092,conv_0092,msg_00449,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Toyota Camry""}",0.95
+ann_00093,conv_0093,msg_00453,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""BMW X5""}",0.92
+ann_00094,conv_0094,msg_00458,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Audi A6""}",0.96
+ann_00095,conv_0095,msg_00463,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Volkswagen Tiguan""}",0.88
+ann_00096,conv_0096,msg_00469,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Honda Accord 8""}",0.94
+ann_00097,conv_0097,msg_00473,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Honda Accord 8""}",0.85
+ann_00098,conv_0098,msg_00477,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Kia K5""}",0.86
+ann_00099,conv_0099,msg_00481,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Skoda Octavia""}",0.84
+ann_00100,conv_0100,msg_00486,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Toyota Camry""}",0.96
+ann_00101,conv_0101,msg_00492,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Range Rover Sport""}",0.91
+ann_00102,conv_0102,msg_00497,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Honda Accord 8""}",0.93
+ann_00103,conv_0103,msg_00501,new_service_request,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mazda CX-5""}",0.92
+ann_00104,conv_0104,msg_00507,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Porsche Macan""}",0.89
+ann_00105,conv_0105,msg_00511,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""BMW X5""}",0.88
+ann_00106,conv_0106,msg_00517,new_service_request,Detailing wash,"{""service"":""Detailing wash"",""car"":""BMW X5""}",0.85
+ann_00107,conv_0107,msg_00522,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Audi A6""}",0.95
+ann_00108,conv_0108,msg_00527,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Porsche Macan""}",0.88
+ann_00109,conv_0109,msg_00532,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Mercedes-Benz E-Class""}",0.96
+ann_00110,conv_0110,msg_00538,new_service_request,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Kia K5""}",0.96
+ann_00111,conv_0111,msg_00542,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Porsche Macan""}",0.94
+ann_00112,conv_0112,msg_00547,new_service_request,Window tinting,"{""service"":""Window tinting"",""car"":""Mercedes-Benz E-Class""}",0.93
+ann_00113,conv_0113,msg_00552,new_service_request,Chrome delete,"{""service"":""Chrome delete"",""car"":""Kia K5""}",0.86
+ann_00114,conv_0114,msg_00556,new_service_request,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Range Rover Sport""}",0.89
+ann_00115,conv_0115,msg_00560,new_service_request,Paint correction,"{""service"":""Paint correction"",""car"":""Skoda Octavia""}",0.83
+ann_00116,conv_0116,msg_00565,new_service_request,PPF elements,"{""service"":""PPF elements"",""car"":""Mazda CX-5""}",0.97
+ann_00117,conv_0117,msg_00569,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Audi A6""}",0.84
+ann_00118,conv_0118,msg_00575,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Geely Monjaro""}",0.91
+ann_00119,conv_0119,msg_00581,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Toyota Camry""}",0.92
+ann_00120,conv_0120,msg_00586,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Kia K5""}",0.85
+ann_00121,conv_0121,msg_00592,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Volkswagen Tiguan""}",0.93
+ann_00122,conv_0122,msg_00598,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Mercedes-Benz E-Class""}",0.88
+ann_00123,conv_0123,msg_00604,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Mercedes-Benz E-Class""}",0.89
+ann_00124,conv_0124,msg_00608,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Skoda Octavia""}",0.93
+ann_00125,conv_0125,msg_00613,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Skoda Octavia""}",0.92
+ann_00126,conv_0126,msg_00618,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Lexus RX""}",0.90
+ann_00127,conv_0127,msg_00622,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""BMW X5""}",0.96
+ann_00128,conv_0128,msg_00626,price_consultation,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Range Rover Sport""}",0.95
+ann_00129,conv_0129,msg_00632,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Mercedes-Benz E-Class""}",0.90
+ann_00130,conv_0130,msg_00637,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Geely Monjaro""}",0.90
+ann_00131,conv_0131,msg_00641,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Porsche Macan""}",0.87
+ann_00132,conv_0132,msg_00647,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Tesla Model 3""}",0.87
+ann_00133,conv_0133,msg_00652,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Kia K5""}",0.94
+ann_00134,conv_0134,msg_00658,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Volkswagen Tiguan""}",0.97
+ann_00135,conv_0135,msg_00663,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Toyota Camry""}",0.96
+ann_00136,conv_0136,msg_00669,price_consultation,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Porsche Macan""}",0.88
+ann_00137,conv_0137,msg_00673,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Audi A6""}",0.91
+ann_00138,conv_0138,msg_00677,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Tesla Model 3""}",0.88
+ann_00139,conv_0139,msg_00683,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Audi A6""}",0.91
+ann_00140,conv_0140,msg_00688,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Hyundai Santa Fe""}",0.87
+ann_00141,conv_0141,msg_00694,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mazda CX-5""}",0.91
+ann_00142,conv_0142,msg_00698,price_consultation,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Porsche Macan""}",0.97
+ann_00143,conv_0143,msg_00702,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""BMW X5""}",0.88
+ann_00144,conv_0144,msg_00707,price_consultation,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Range Rover Sport""}",0.83
+ann_00145,conv_0145,msg_00711,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Tesla Model 3""}",0.85
+ann_00146,conv_0146,msg_00717,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Hyundai Santa Fe""}",0.94
+ann_00147,conv_0147,msg_00723,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Audi A6""}",0.91
+ann_00148,conv_0148,msg_00728,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Skoda Octavia""}",0.84
+ann_00149,conv_0149,msg_00732,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Skoda Octavia""}",0.93
+ann_00150,conv_0150,msg_00736,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Honda Accord 8""}",0.85
+ann_00151,conv_0151,msg_00742,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Mercedes-Benz E-Class""}",0.91
+ann_00152,conv_0152,msg_00747,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Audi A6""}",0.83
+ann_00153,conv_0153,msg_00752,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Range Rover Sport""}",0.94
+ann_00154,conv_0154,msg_00756,price_consultation,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Tesla Model 3""}",0.92
+ann_00155,conv_0155,msg_00761,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Volkswagen Tiguan""}",0.88
+ann_00156,conv_0156,msg_00767,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Geely Monjaro""}",0.82
+ann_00157,conv_0157,msg_00773,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Skoda Octavia""}",0.83
+ann_00158,conv_0158,msg_00778,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Mercedes-Benz E-Class""}",0.89
+ann_00159,conv_0159,msg_00783,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Tesla Model 3""}",0.90
+ann_00160,conv_0160,msg_00789,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Hyundai Santa Fe""}",0.90
+ann_00161,conv_0161,msg_00793,price_consultation,Window tinting,"{""service"":""Window tinting"",""car"":""Kia K5""}",0.91
+ann_00162,conv_0162,msg_00797,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Hyundai Santa Fe""}",0.89
+ann_00163,conv_0163,msg_00802,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Lexus RX""}",0.89
+ann_00164,conv_0164,msg_00807,price_consultation,Chrome delete,"{""service"":""Chrome delete"",""car"":""Hyundai Santa Fe""}",0.95
+ann_00165,conv_0165,msg_00813,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Audi A6""}",0.87
+ann_00166,conv_0166,msg_00818,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Geely Monjaro""}",0.93
+ann_00167,conv_0167,msg_00824,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mazda CX-5""}",0.91
+ann_00168,conv_0168,msg_00830,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Range Rover Sport""}",0.97
+ann_00169,conv_0169,msg_00835,price_consultation,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Range Rover Sport""}",0.96
+ann_00170,conv_0170,msg_00839,price_consultation,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mazda CX-5""}",0.96
+ann_00171,conv_0171,msg_00844,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Hyundai Santa Fe""}",0.86
+ann_00172,conv_0172,msg_00850,price_consultation,Detailing wash,"{""service"":""Detailing wash"",""car"":""Honda Accord 8""}",0.87
+ann_00173,conv_0173,msg_00854,price_consultation,Paint correction,"{""service"":""Paint correction"",""car"":""Lexus RX""}",0.85
+ann_00174,conv_0174,msg_00858,price_consultation,PPF elements,"{""service"":""PPF elements"",""car"":""Honda Accord 8""}",0.83
+ann_00175,conv_0175,msg_00864,general_question,,{},0.85
+ann_00176,conv_0176,msg_00868,general_question,,{},0.88
+ann_00177,conv_0177,msg_00872,general_question,,{},0.91
+ann_00178,conv_0178,msg_00878,general_question,,{},0.90
+ann_00179,conv_0179,msg_00883,general_question,,{},0.91
+ann_00180,conv_0180,msg_00888,general_question,,{},0.89
+ann_00181,conv_0181,msg_00892,general_question,,{},0.86
+ann_00182,conv_0182,msg_00896,general_question,,{},0.97
+ann_00183,conv_0183,msg_00901,general_question,,{},0.84
+ann_00184,conv_0184,msg_00905,general_question,,{},0.97
+ann_00185,conv_0185,msg_00911,general_question,,{},0.93
+ann_00186,conv_0186,msg_00916,general_question,,{},0.83
+ann_00187,conv_0187,msg_00922,general_question,,{},0.87
+ann_00188,conv_0188,msg_00928,general_question,,{},0.88
+ann_00189,conv_0189,msg_00932,general_question,,{},0.87
+ann_00190,conv_0190,msg_00938,general_question,,{},0.97
+ann_00191,conv_0191,msg_00942,general_question,,{},0.91
+ann_00192,conv_0192,msg_00946,general_question,,{},0.85
+ann_00193,conv_0193,msg_00950,general_question,,{},0.86
+ann_00194,conv_0194,msg_00956,general_question,,{},0.96
+ann_00195,conv_0195,msg_00962,general_question,,{},0.96
+ann_00196,conv_0196,msg_00967,general_question,,{},0.90
+ann_00197,conv_0197,msg_00972,general_question,,{},0.95
+ann_00198,conv_0198,msg_00976,general_question,,{},0.94
+ann_00199,conv_0199,msg_00982,general_question,,{},0.82
+ann_00200,conv_0200,msg_00986,general_question,,{},0.82
+ann_00201,conv_0201,msg_00991,general_question,,{},0.90
+ann_00202,conv_0202,msg_00995,general_question,,{},0.94
+ann_00203,conv_0203,msg_00999,general_question,,{},0.92
+ann_00204,conv_0204,msg_01004,general_question,,{},0.94
+ann_00205,conv_0205,msg_01008,general_question,,{},0.95
+ann_00206,conv_0206,msg_01014,general_question,,{},0.89
+ann_00207,conv_0207,msg_01018,general_question,,{},0.89
+ann_00208,conv_0208,msg_01024,general_question,,{},0.91
+ann_00209,conv_0209,msg_01029,general_question,,{},0.87
+ann_00210,conv_0210,msg_01033,general_question,,{},0.85
+ann_00211,conv_0211,msg_01037,general_question,,{},0.91
+ann_00212,conv_0212,msg_01042,general_question,,{},0.87
+ann_00213,conv_0213,msg_01046,general_question,,{},0.89
+ann_00214,conv_0214,msg_01051,cancel_or_reschedule,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Volkswagen Tiguan""}",0.87
+ann_00215,conv_0215,msg_01056,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""Audi A6""}",0.87
+ann_00216,conv_0216,msg_01061,cancel_or_reschedule,PPF elements,"{""service"":""PPF elements"",""car"":""Hyundai Santa Fe""}",0.84
+ann_00217,conv_0217,msg_01066,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""Geely Monjaro""}",0.91
+ann_00218,conv_0218,msg_01070,cancel_or_reschedule,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Audi A6""}",0.93
+ann_00219,conv_0219,msg_01075,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Honda Accord 8""}",0.93
+ann_00220,conv_0220,msg_01079,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Geely Monjaro""}",0.91
+ann_00221,conv_0221,msg_01085,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Lexus RX""}",0.85
+ann_00222,conv_0222,msg_01091,cancel_or_reschedule,Chrome delete,"{""service"":""Chrome delete"",""car"":""Skoda Octavia""}",0.92
+ann_00223,conv_0223,msg_01095,cancel_or_reschedule,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Mercedes-Benz E-Class""}",0.97
+ann_00224,conv_0224,msg_01100,cancel_or_reschedule,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Range Rover Sport""}",0.86
+ann_00225,conv_0225,msg_01106,cancel_or_reschedule,PPF elements,"{""service"":""PPF elements"",""car"":""Lexus RX""}",0.92
+ann_00226,conv_0226,msg_01110,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Tesla Model 3""}",0.88
+ann_00227,conv_0227,msg_01116,cancel_or_reschedule,Interior dry cleaning,"{""service"":""Interior dry cleaning"",""car"":""Kia K5""}",0.85
+ann_00228,conv_0228,msg_01121,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Range Rover Sport""}",0.84
+ann_00229,conv_0229,msg_01125,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""BMW X5""}",0.84
+ann_00230,conv_0230,msg_01131,cancel_or_reschedule,Window tinting,"{""service"":""Window tinting"",""car"":""Tesla Model 3""}",0.88
+ann_00231,conv_0231,msg_01135,cancel_or_reschedule,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Skoda Octavia""}",0.91
+ann_00232,conv_0232,msg_01140,cancel_or_reschedule,Full PPF wrap,"{""service"":""Full PPF wrap"",""car"":""Volkswagen Tiguan""}",0.88
+ann_00233,conv_0233,msg_01144,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""Porsche Macan""}",0.96
+ann_00234,conv_0234,msg_01150,cancel_or_reschedule,Chrome delete,"{""service"":""Chrome delete"",""car"":""Lexus RX""}",0.91
+ann_00235,conv_0235,msg_01154,cancel_or_reschedule,Ceramic coating,"{""service"":""Ceramic coating"",""car"":""Audi A6""}",0.88
+ann_00236,conv_0236,msg_01160,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""Range Rover Sport""}",0.88
+ann_00237,conv_0237,msg_01166,cancel_or_reschedule,Detailing wash,"{""service"":""Detailing wash"",""car"":""Audi A6""}",0.89
+ann_00238,conv_0238,msg_01172,cancel_or_reschedule,PPF elements,"{""service"":""PPF elements"",""car"":""Porsche Macan""}",0.83
+ann_00239,conv_0239,msg_01178,cancel_or_reschedule,Paint correction,"{""service"":""Paint correction"",""car"":""Skoda Octavia""}",0.97
+ann_00240,conv_0240,msg_01184,cancel_or_reschedule,PPF elements,"{""service"":""PPF elements"",""car"":""Lexus RX""}",0.96

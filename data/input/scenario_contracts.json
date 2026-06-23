@@ -1,0 +1,145 @@
+{
+  "version": "1.1",
+  "case_name": "AI Lead Bot Quality Dashboard for detailing studio",
+  "principle": "Events describe what happened. Scenario contracts describe what should happen. Dashboard reports deviations with evidence.",
+  "global_rules": {
+    "handoff_sent_must_be_unique_per_request": true,
+    "bot_must_not_continue_active_request_after_handoff": true,
+    "fallback_limit_before_review": 2,
+    "all_contract_violations_need_evidence": true,
+    "llm_annotations_are_not_source_of_truth": true
+  },
+  "scenarios": {
+    "new_service_request": {
+      "description": "Client requests a detailing service and usually needs manager handoff.",
+      "required_fields_before_handoff": [
+        "service",
+        "car",
+        "phone"
+      ],
+      "optional_fields": [
+        "client_name",
+        "details",
+        "preferred_time"
+      ],
+      "happy_path_milestones": [
+        "conversation_started",
+        "intent_detected",
+        "scenario_selected",
+        "field_collected",
+        "handoff_ready",
+        "handoff_sent",
+        "request_closed"
+      ],
+      "allowed_final_states": [
+        "request_closed",
+        "closed_without_handoff",
+        "client_silent",
+        "answered"
+      ],
+      "forbidden_patterns": [
+        "handoff_without_required_fields",
+        "duplicate_handoff",
+        "bot_reply_after_handoff_without_new_request",
+        "fallback_loop",
+        "mixed_old_new_request"
+      ]
+    },
+    "price_consultation": {
+      "description": "Client asks for approximate price. Handoff is optional, but required fields are still needed before manager transfer.",
+      "required_fields_before_handoff": [
+        "service",
+        "car",
+        "phone"
+      ],
+      "optional_fields": [
+        "client_name",
+        "details",
+        "preferred_time"
+      ],
+      "happy_path_milestones": [
+        "conversation_started",
+        "intent_detected",
+        "scenario_selected",
+        "field_collected",
+        "handoff_ready",
+        "handoff_sent",
+        "request_closed"
+      ],
+      "allowed_final_states": [
+        "request_closed",
+        "closed_without_handoff",
+        "client_silent",
+        "answered"
+      ],
+      "forbidden_patterns": [
+        "handoff_without_required_fields",
+        "duplicate_handoff",
+        "bot_reply_after_handoff_without_new_request",
+        "fallback_loop",
+        "mixed_old_new_request"
+      ]
+    },
+    "cancel_or_reschedule": {
+      "description": "Client wants to cancel or reschedule an existing booking. Bot must collect reference/contact and hand off to manager.",
+      "required_fields_before_handoff": [
+        "phone",
+        "booking_reference",
+        "cancel_or_reschedule_action"
+      ],
+      "optional_fields": [
+        "client_name",
+        "details",
+        "preferred_time"
+      ],
+      "happy_path_milestones": [
+        "conversation_started",
+        "intent_detected",
+        "scenario_selected",
+        "field_collected",
+        "handoff_ready",
+        "handoff_sent",
+        "request_closed"
+      ],
+      "allowed_final_states": [
+        "request_closed",
+        "closed_without_handoff",
+        "client_silent",
+        "answered"
+      ],
+      "forbidden_patterns": [
+        "handoff_without_required_fields",
+        "duplicate_handoff",
+        "bot_reply_after_handoff_without_new_request",
+        "fallback_loop",
+        "mixed_old_new_request"
+      ]
+    },
+    "general_question": {
+      "description": "Client asks a non-commercial general question. Handoff is normally not needed.",
+      "required_fields_before_handoff": [],
+      "optional_fields": [
+        "client_name",
+        "details",
+        "preferred_time"
+      ],
+      "happy_path_milestones": [
+        "conversation_started",
+        "intent_detected",
+        "scenario_selected",
+        "answer_sent",
+        "conversation_closed"
+      ],
+      "allowed_final_states": [
+        "request_closed",
+        "closed_without_handoff",
+        "client_silent",
+        "answered"
+      ],
+      "forbidden_patterns": [
+        "unnecessary_handoff",
+        "fallback_loop"
+      ]
+    }
+  }
+}

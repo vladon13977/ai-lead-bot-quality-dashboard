@@ -1,0 +1,114 @@
+{
+  "pack_name": "Dashboard for Detail — icon pack",
+  "format": "PNG, transparent background",
+  "size": "96x96",
+  "style": "thin line / premium dark dashboard / cyan-green-amber-red accents",
+  "usage": "Place files into /assets/icons/ or /src/assets/icons/ depending on current static structure.",
+  "icons": [
+    {
+      "file": "assets/icons/nav_overview.png",
+      "color": "cyan",
+      "purpose": "Sidebar: Обзор / Overview"
+    },
+    {
+      "file": "assets/icons/nav_funnel.png",
+      "color": "cyan",
+      "purpose": "Sidebar: Воронка сценария / Scenario Funnel"
+    },
+    {
+      "file": "assets/icons/nav_issues.png",
+      "color": "amber",
+      "purpose": "Sidebar: Отклонения сценария / Scenario Issues"
+    },
+    {
+      "file": "assets/icons/nav_review_queue.png",
+      "color": "cyan",
+      "purpose": "Sidebar: Диалоги на проверку / Dialogs to Review"
+    },
+    {
+      "file": "assets/icons/nav_ab_backlog.png",
+      "color": "green",
+      "purpose": "Sidebar: Гипотезы улучшений / Improvement Hypotheses"
+    },
+    {
+      "file": "assets/icons/nav_data.png",
+      "color": "blue",
+      "purpose": "Sidebar: Данные и проверка / Data & Validation"
+    },
+    {
+      "file": "assets/icons/source_truth.png",
+      "color": "green",
+      "purpose": "Sidebar bottom card: Источник правды / Source of truth"
+    },
+    {
+      "file": "assets/icons/kpi_total_dialogs.png",
+      "color": "cyan",
+      "purpose": "Overview KPI: Всего диалогов"
+    },
+    {
+      "file": "assets/icons/kpi_success.png",
+      "color": "green",
+      "purpose": "Overview KPI: Успешно закрыто"
+    },
+    {
+      "file": "assets/icons/kpi_handoff.png",
+      "color": "cyan",
+      "purpose": "Overview KPI: Handoff отправлен"
+    },
+    {
+      "file": "assets/icons/kpi_issues.png",
+      "color": "amber",
+      "purpose": "Overview KPI: Диалоги с проблемами"
+    },
+    {
+      "file": "assets/icons/kpi_critical.png",
+      "color": "red",
+      "purpose": "Overview KPI: Критичные проблемы"
+    },
+    {
+      "file": "assets/icons/kpi_review.png",
+      "color": "cyan",
+      "purpose": "Overview KPI: Диалоги на проверку"
+    },
+    {
+      "file": "assets/icons/section_events.png",
+      "color": "cyan",
+      "purpose": "Pipeline/overview: События"
+    },
+    {
+      "file": "assets/icons/section_rules.png",
+      "color": "blue",
+      "purpose": "Pipeline/overview: Правила сценария"
+    },
+    {
+      "file": "assets/icons/section_problems.png",
+      "color": "amber",
+      "purpose": "Pipeline/overview: Проблемы"
+    },
+    {
+      "file": "assets/icons/section_hypothesis.png",
+      "color": "green",
+      "purpose": "A/B card: Гипотеза"
+    },
+    {
+      "file": "assets/icons/section_test_ab.png",
+      "color": "cyan",
+      "purpose": "A/B card: Тест A/B"
+    },
+    {
+      "file": "assets/icons/section_metric.png",
+      "color": "green",
+      "purpose": "A/B card: Метрика успеха"
+    },
+    {
+      "file": "assets/icons/section_impact.png",
+      "color": "green",
+      "purpose": "A/B card: Ожидаемый эффект"
+    },
+    {
+      "file": "assets/icons/language.png",
+      "color": "cyan",
+      "purpose": "Language switch block, optional"
+    }
+  ]
+}

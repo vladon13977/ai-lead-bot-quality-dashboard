@@ -1,0 +1,36 @@
+conversation_id,violation_type,severity,evidence
+conv_0001,repeated_question,medium,phone was requested twice in the same active request
+conv_0005,post_handoff_violation,high,bot replied after handoff without opening/resetting request
+conv_0011,repeated_question,medium,phone was requested twice in the same active request
+conv_0012,repeated_question,medium,phone was requested twice in the same active request
+conv_0013,early_handoff,high,handoff_sent before required fields were collected: car
+conv_0013,missing_required_field,high,handoff_sent while missing required fields: car
+conv_0035,repeated_question,medium,phone was requested twice in the same active request
+conv_0036,mixed_old_new_request,high,new service intent was attached to an already handed off request
+conv_0040,early_handoff,high,handoff_sent before required fields were collected: service
+conv_0040,missing_required_field,high,handoff_sent while missing required fields: service
+conv_0046,wrong_service_detected,medium,"LLM/service field collected as Interior dry cleaning, expected/request service is Ceramic coating"
+conv_0056,duplicate_handoff,high,2 handoff_sent events in one request
+conv_0057,wrong_service_detected,medium,"LLM/service field collected as Chrome delete, expected/request service is Detailing wash"
+conv_0059,duplicate_handoff,high,2 handoff_sent events in one request
+conv_0081,mixed_old_new_request,high,new service intent was attached to an already handed off request
+conv_0093,post_handoff_violation,high,bot replied after handoff without opening/resetting request
+conv_0096,wrong_service_detected,medium,"LLM/service field collected as Window tinting, expected/request service is Chrome delete"
+conv_0102,missing_required_field,high,handoff_sent while missing required fields: car
+conv_0104,wrong_service_detected,medium,"LLM/service field collected as PPF elements, expected/request service is Full PPF wrap"
+conv_0114,missing_required_field,high,handoff_sent while missing required fields: car
+conv_0123,early_handoff,high,handoff_sent before required fields were collected: contract_fields
+conv_0128,early_handoff,high,handoff_sent before required fields were collected: phone
+conv_0128,missing_required_field,high,handoff_sent while missing required fields: phone
+conv_0131,repeated_question,medium,phone was requested twice in the same active request
+conv_0144,fallback_loop,medium,3 fallback_triggered events
+conv_0161,fallback_loop,medium,3 fallback_triggered events
+conv_0162,fallback_loop,medium,3 fallback_triggered events
+conv_0181,unnecessary_handoff,medium,general question produced handoff without commercial intent
+conv_0186,unnecessary_handoff,medium,general question produced handoff without commercial intent
+conv_0191,unnecessary_handoff,medium,general question produced handoff without commercial intent
+conv_0199,unnecessary_handoff,medium,general question produced handoff without commercial intent
+conv_0223,missing_required_field,high,handoff_sent while missing required fields: phone
+conv_0228,cancel_flow_wrong,high,cancel/reschedule was handled as completed without manager confirmation
+conv_0237,early_handoff,high,handoff_sent before required fields were collected: contract_fields
+conv_0240,cancel_flow_wrong,high,cancel/reschedule was handled as completed without manager confirmation

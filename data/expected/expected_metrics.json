@@ -1,0 +1,45 @@
+{
+  "dataset_name": "ai_lead_bot_quality_golden_dataset_v2_reduced_issues",
+  "records": {
+    "conversations": 240,
+    "messages": 1188,
+    "bot_events": 2333,
+    "requests": 240,
+    "handoffs": 211,
+    "llm_annotations": 240
+  },
+  "scenario_counts": {
+    "general_question": 39,
+    "cancel_or_reschedule": 27,
+    "new_service_request": 116,
+    "price_consultation": 58
+  },
+  "handoff_sent_count": 205,
+  "complete_handoff_count": 195,
+  "review_conversations_count": 32,
+  "violations_total": 35,
+  "violations_by_type": {
+    "repeated_question": 5,
+    "post_handoff_violation": 2,
+    "early_handoff": 5,
+    "missing_required_field": 6,
+    "mixed_old_new_request": 2,
+    "wrong_service_detected": 4,
+    "duplicate_handoff": 2,
+    "fallback_loop": 3,
+    "unnecessary_handoff": 4,
+    "cancel_flow_wrong": 2
+  },
+  "violations_by_severity": {
+    "medium": 16,
+    "high": 19
+  },
+  "top_expected_review_types": [
+    "missing_required_field",
+    "repeated_question",
+    "early_handoff",
+    "wrong_service_detected",
+    "unnecessary_handoff"
+  ],
+  "main_dashboard_statement": "AI lead bot quality control based on scenario contracts, event logs, request states and handoff evidence."
+}
