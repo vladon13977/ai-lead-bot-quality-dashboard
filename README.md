@@ -2,7 +2,7 @@
 
 ## Live demo
 
-Live demo: _coming soon_
+Live demo: https://bot-quality.aesthetic-design.ru
 
 ## Overview
 
