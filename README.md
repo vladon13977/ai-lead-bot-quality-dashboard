@@ -85,15 +85,26 @@ This dashboard demonstrates a contract-first way to inspect those failures and c
 
 ## Screenshots
 
-Expected screenshot paths:
+Key dashboard screens:
 
-- `docs/screenshots/overview.png`
-- `docs/screenshots/scenario-funnel.png`
-- `docs/screenshots/contract-issues.png`
-- `docs/screenshots/review-queue.png`
-- `docs/screenshots/ab-backlog.png`
-- `docs/screenshots/data-upload.png`
-- `docs/screenshots/data-validation.png`
+- Overview
+<img width="2022" height="1029" alt="Снимок экрана 2026-06-24 в 11 43 27" src="https://github.com/user-attachments/assets/5fb87e94-7c73-4d8c-b7e8-42aaa58e131a" />
+
+
+
+- Scenario Funnel
+<img width="2046" height="847" alt="Снимок экрана 2026-06-24 в 11 45 10" src="https://github.com/user-attachments/assets/15b0ccd0-78a3-4e56-a1f4-42accb332571" />
+
+
+
+- Scenario Issues
+<img width="2048" height="1120" alt="Снимок экрана 2026-06-24 в 11 45 56" src="https://github.com/user-attachments/assets/df5044dd-77fd-4063-99f8-aa802b3420a3" />
+
+
+
+- Improvement Hypotheses
+<img width="2047" height="1114" alt="Снимок экрана 2026-06-24 в 11 46 40" src="https://github.com/user-attachments/assets/e9a132d6-bf97-44d5-ab8e-dc8dd0ac4d33" />
+
 
 ## Tech stack
 
